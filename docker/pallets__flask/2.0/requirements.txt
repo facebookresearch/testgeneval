@@ -12,7 +12,7 @@ click==8.0.1
 cryptography==35.0.0
 distlib==0.3.3
 docutils==0.16
-filelock==3.2.0
+filelock==3.20.1
 greenlet==1.1.2
 identify==2.2.15
 idna==3.2
