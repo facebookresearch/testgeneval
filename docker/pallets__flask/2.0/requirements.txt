@@ -58,7 +58,7 @@ types-contextvars==0.1.4
 types-dataclasses==0.1.7
 types-setuptools==57.4.0
 typing-extensions==3.10.0.2
-urllib3==1.26.7
+urllib3==2.6.3
 virtualenv==20.8.1
 wheel==0.37.0
 
