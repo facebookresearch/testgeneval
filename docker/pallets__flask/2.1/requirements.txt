@@ -67,6 +67,6 @@ six==1.16.0
 toml==0.10.2
 toposort==1.7
 tox==3.25.0
-virtualenv==20.14.1
+virtualenv==20.36.1
 wheel==0.37.1
 
