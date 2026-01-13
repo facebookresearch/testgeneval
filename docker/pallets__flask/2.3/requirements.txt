@@ -60,6 +60,6 @@ pyproject-hooks==1.0.0
 pyyaml==6.0
 toposort==1.10
 tox==4.4.11
-virtualenv==20.21.0
+virtualenv==20.36.1
 wheel==0.40.0
 
