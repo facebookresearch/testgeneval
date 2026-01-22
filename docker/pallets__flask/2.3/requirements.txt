@@ -61,5 +61,5 @@ pyyaml==6.0
 toposort==1.10
 tox==4.4.11
 virtualenv==20.21.0
-wheel==0.40.0
+wheel==0.46.2
 
