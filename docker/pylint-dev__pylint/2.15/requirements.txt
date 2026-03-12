@@ -1,4 +1,4 @@
-black==22.6.0
+black==26.3.1
 flake8==5.0.4
 flake8-typing-imports==1.13.0
 isort==5.10.1
